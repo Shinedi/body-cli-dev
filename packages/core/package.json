@@ -1,0 +1,22 @@
+{
+  "name": "@body-cli-dev/core",
+  "version": "1.0.0",
+  "description": "body-cli-dev core",
+  "author": "bodyfu <bodyfu@tencent.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/core.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run testing from core\""
+  },
+  "dependencies": {
+    "@body-cli-dev/utils": "^1.0.0"
+  }
+}

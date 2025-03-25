@@ -1,0 +1,21 @@
+{
+  "name": "@body-cli-dev/utils",
+  "version": "1.0.0",
+  "description": "body-cli-dev utils",
+  "author": "bodyfu <bodyfu@tencent.com>",
+  "homepage": "",
+  "license": "ISC", 
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run testing from utils\""
+  },
+  "dependencies": {
+  }
+}
