@@ -1,6 +1,6 @@
 {
   "name": "@body-cli-dev/core",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "body-cli-dev core",
   "author": "bodyfu <bodyfu@tencent.com>",
   "homepage": "",
@@ -17,7 +17,7 @@
     "test": "echo \"Error: run testing from core\""
   },
   "dependencies": {
-    "@body-cli-dev/utils": "^1.0.3"
+    "@body-cli-dev/utils": "^1.0.4"
   },
   "gitHead": "acc74c9e52181968a3ebe6a5b223699223555183",
   "publishConfig": {
