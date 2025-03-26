@@ -1,6 +1,6 @@
 {
   "name": "@body-cli-dev/core",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "body-cli-dev core",
   "author": "bodyfu <bodyfu@tencent.com>",
   "homepage": "",
@@ -18,5 +18,6 @@
   },
   "dependencies": {
     "@body-cli-dev/utils": "^1.0.1"
-  }
+  },
+  "gitHead": "ecbddb804412750ca74b930a4dc928324c82d2a6"
 }

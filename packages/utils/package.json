@@ -1,6 +1,6 @@
 {
   "name": "@body-cli-dev/utils",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "body-cli-dev utils",
   "author": "bodyfu <bodyfu@tencent.com>",
   "homepage": "",
@@ -15,5 +15,6 @@
   ],
   "scripts": {
     "test": "echo \"Error: run testing from utils\""
-  }
+  },
+  "gitHead": "ecbddb804412750ca74b930a4dc928324c82d2a6"
 }
