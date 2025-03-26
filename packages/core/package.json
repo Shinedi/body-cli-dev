@@ -19,5 +19,8 @@
   "dependencies": {
     "@body-cli-dev/utils": "^1.0.3"
   },
-  "gitHead": "ecbddb804412750ca74b930a4dc928324c82d2a6"
+  "gitHead": "acc74c9e52181968a3ebe6a5b223699223555183",
+  "publishConfig": {
+    "access": "public"
+  }
 }
